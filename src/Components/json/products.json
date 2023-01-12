@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "titulo": "Mini Teclado Multimedia Pc Usb Cable Portatil Noga",
+        "descripcion": "La comodidad de ahorrar espacio. Portable y compacto. Gran suavidad al tacto. 98 Teclas en Español. 10 Funciones Multimedia. Diseño mini y ergonómico. Conexión USB",
+        "imagen": "images/teclados/noga/miniTeclado.webp",
+        "stock": 15,
+        "categoria": "membrana",
+        "categoria2": "alfanúmerico",
+        "precio": 1800
+    },
+    {
+        "id": 2,
+        "titulo": "Teclado Gamer ideal para jugadores de multiplayer online, rpg, first person shooter.",
+        "descripcion": "Este dispositivo tiene teclas antighosting. Esta cualidad es indispensable si requerís de un uso intensivo del periférico. Gracias a esto podrás evitar fallas al tocar varias teclas al mismo tiempo.",
+        "imagen": "images/teclados/noga/tecladoGamer.webp",
+        "stock": 9,
+        "categoria": "membrana",
+        "categoria2": "alfanúmerico",
+        "precio": 3800
+    },
+    {
+        "id": 3,
+        "titulo": "Teclado Gamer Razer Cynosa V2 QWERTY inglés US color negro con luz RGB",
+        "descripcion": "Este dispositivo tiene teclas antighosting. Esta cualidad es indispensable si requerís de un uso intensivo del periférico. Gracias a esto podrás evitar fallas al tocar varias teclas al mismo tiempo.",
+        "imagen": "images/teclados/razer/tecladoRazer.webp",
+        "stock": 3,
+        "categoria": "gamer",
+        "categoria2": "alfanúmerico",
+        "precio": 36000
+    },
+    {
+        "id": 4,
+        "titulo": "Teclado Semi-mecanicov Razer Ornata Chroma Mecha-membrane",
+        "descripcion": "Cúpula de goma de membrana acolchada suave con un clic mecánico nítido táctil. Tapas de teclas diseñadas a medida para una actuación más rápida sin perder un solo golpe. Desarrollado por Razer Chroma con 16,8 millones de opciones de color personalizables. Reposamuñecas magnético ergonómico para máxima comodidad. Modo de juego dedicado. Ejecute perfectamente hasta diez comandos al mismo tiempo",
+        "imagen": "images/teclados/razer/tecladoRazerMecanico.webp",
+        "stock": 6,
+        "categoria": "mecanico",
+        "categoria2": "alfanúmerico",
+        "precio": 35000
+    },
+    {
+        "id": 5,
+        "titulo": "Teclado bluetooth Apple Magic Keyboard con Touch ID y teclado numérico QWERTY español España color negro",
+        "descripcion": "Este teclado Apple es el mejor complemento para hacer todo tipo de actividades en tu Mac, ya sea en tu trabajo o en la comodidad de tu hogar. Su diseño innovador y ultra delgado posibilita escribir con mayor rapidez y precisión.",
+        "imagen": "images/teclados/mac/mac.webp",
+        "stock": 2,
+        "categoria": "membrana",
+        "categoria2": "alfanúmerico",
+        "precio": 80000
+    },
+    {
+        "id": 6,
+        "titulo": "Teclado bluetooth Apple Magic QWERTY español España color plata y blanco",
+        "descripcion": "Este teclado Apple es el mejor complemento para hacer todo tipo de actividades en tu Mac, ya sea en tu trabajo o en la comodidad de tu hogar. Su diseño innovador y ultra delgado posibilita escribir con mayor rapidez y precisión.",
+        "imagen": "images/teclados/mac/macMagic.webp",
+        "stock": 5,
+        "categoria": "membrana",
+        "categoria2": "alfanúmerico",
+        "precio": 56000
+    },
+    {
+        "id": 7,
+        "titulo": "Teclado gamer HyperX Alloy Origins QWERTY HyperX Tactile Aqua inglés US color negro con luz RGB",
+        "descripcion": "Este teclado HyperX de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto y hacer que tus jugadas alcancen otro nivel.",
+        "imagen": "images/teclados/hyperX/hyperX.webp",
+        "stock": 10,
+        "categoria": "gamer",
+        "categoria2": "alfanúmerico",
+        "precio": 18000
+    },
+    {
+        "id": 8,
+        "titulo": "Teclado mecanico HyperX Alloy FPS Pro QWERTY Cherry MX Red inglés US color negro con luz roja",
+        "descripcion": "Si sos amante de los videosjuegos y te apasionan los FPS, no te podés perder el HyperX Alloy FPS Pro. Jugá todos los títulos clásicos que más te gustan y mejorá tu jugabilidad gracias a sus interruptores mecánicos. Son de alta calidad y se destacan por su alta velocidad de respuesta.",
+        "imagen": "images/teclados/hyperX/hyperX3.webp",
+        "stock": 7,
+        "categoria": "mecanico",
+        "categoria2": "alfanúmerico",
+        "precio": 25000
+    },
+    {
+        "id": 9,
+        "titulo": "Teclado Gamer Hp K110 Usb Rgb Retroiluminado",
+        "descripcion": "Este teclado HP de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto y hacer que tus jugadas alcancen otro nivel.",
+        "imagen": "images/teclados/hp/tecladohp.webp",
+        "stock": 15,
+        "categoria": "gamer",
+        "categoria2": "alfanúmerico",
+        "precio": 10000
+    },
+    {
+        "id": 10,
+        "titulo": "Teclado gamer HP GK400F QWERTY español color negro con luz rainbow",
+        "descripcion": "Ergonómico y apto para diversos usos. Contiene teclado numérico. Función antighosting incorporada. Tipo de teclado: mecánico. Tecla cilíndrica.Con conector USB.",
+        "imagen": "images/teclados/hp/tecladohp3.webp",
+        "stock": 12,
+        "categoria": "mecanico",
+        "categoria2": "alfanúmerico",
+        "precio": 15000
+    },
+    {
+        "id": 11,
+        "titulo": "Teclado Y Mouse Gamer Lenovo Km300 Rgb Usb Simmcye",
+        "descripcion": "Diseñado para igualar las condiciones, el teclado Lenovo™ Legion K300 ofrece a los jugadores principiantes todo lo necesario para competir con los profesionales, a una fracción del costo. El diseño de teclado de tamaño completo, las teclas programables y una membrana anti efecto fantasma de 24 teclas con luz RGB de 5 zonas establecen una sólida base de estilo y rendimiento",
+        "imagen": "images/teclados/lenovo/tecladoLenovo.webp",
+        "stock": 7,
+        "categoria": "membrana",
+        "categoria2": "alfanúmerico",
+        "precio": 12000
+    },
+    {
+        "id": 12,
+        "titulo": "Teclado Mecanico Cherry Mx Red Asus Rog Strix Flare Pnk",
+        "descripcion": "Teclado mecánico para juegos ASUS ROG Strix Flare Pnk (Cherry MX Red) de edición limitada con interruptores, iluminación Aura Sync RGB, insignia personalizable, paso USB y CONTROLES multimedia",
+        "imagen": "images/teclados/asus/tecladoAsus.webp",
+        "stock": 3,
+        "categoria": "mecanico",
+        "categoria2": "alfanúmerico",
+        "precio": 90000
+    },
+    {
+        "id": 13,
+        "titulo": "Teclado Asus Rog Strix Scope Rx Xa05 Idioma Español",
+        "descripcion": "Enfréntate a todos con ROG Strix Scope RX, el primer teclado mecánico para juegos RGB que cuenta con switches mecánicos ópticos ROG RX Red exclusivos. Estos interruptores proporcionan una vida útil de 100 millones de pulsaciones y ofrecen pulsaciones lineales consistentes con respuesta inmediata. Además, cada switch tiene un LED RGB central para dar a cada tecla una iluminación completa. Strix Scope RX también ofrece resistencia a salpicaduras y al polvo IP56, una cubierta superior de aleación y conexión USB 2.0. Como todos los teclados para juegos de la serie Strix Scope, tiene una tecla Ctrl más ancha y una tecla Stealth para los jugadores de FPS. Entra con confianza en la batalla con ROG Strix Scope RX.",
+        "imagen": "images/teclados/asus/tecladoAsus3.webp",
+        "stock": 4,
+        "categoria": "mecanico",
+        "categoria2": "alfanúmerico",
+        "precio": 110000
+    }
+]
